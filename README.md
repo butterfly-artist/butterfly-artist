@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding world
 - 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on software world
-- 📫 How to reach me mail: thota.madhulika2007@gmail.com
+- 📫 How to reach me mail: thotamadhulika9342@gmail.com
 - 😄 Pronouns: My pronouns are she/her
 - ⚡ Fun fact: I'm a artist with adventuresome in heart
 - 💡 Myself: Traveler + Hiking , Artist , novel reader , Photography 
