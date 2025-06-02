@@ -1,11 +1,12 @@
 - 👋 Hi, I'm Thota Madhulika
-- 👀 I’m interested in coding world
-- 🌱 I’m currently learning Python 
-- 💞️ I’m looking to collaborate on software world
+- 👀 Aspiring software engineer focused on writing clean, scalable code.
+- 🌱 Final-year CS student building real-world projects with purpose.
+- 💞️ Passionate about problem-solving, product thinking, and innovation.
 - 📫 How to reach me mail: thota.madhulika05@gmail.com
 - 😄 Pronouns: My pronouns are she/her
-- ⚡ Fun fact: I'm a artist with adventuresome in heart
-- 💡 Myself: Traveler + Hiking , Artist , novel reader , Photography 
+- ⚡ On a journey to contribute, learn, and grow in top tech environments.
+- 💡 Blending creativity and code to craft meaningful digital experiences.
+
 
 <!---
 butterfly-artist/butterfly-artist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
