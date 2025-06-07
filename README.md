@@ -30,8 +30,7 @@
 
 ---
 
-## 📈 GitHub Stats (Optional)
-
+## 📈 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=butterfly-artist&show_icons=true&theme=tokyonight" alt="Madhulika's GitHub stats" />
 </p>
