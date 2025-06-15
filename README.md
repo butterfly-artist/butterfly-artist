@@ -31,6 +31,33 @@
 ---
 
 ## 📈 GitHub Stats
+   <script>
+        async function fetchCommits() {
+            const username = "butterfly-artist";  // Change this to your GitHub username
+            const repo = "butterfly-artist";  // Change this to your repository name
+            const url = `https://api.github.com/repos/${username}/${repo}/commits`;
+
+            try {
+                const response = await fetch(url);
+                const data = await response.json();
+                
+                const commitList = document.getElementById("commits-list");
+                commitList.innerHTML = "";
+
+                data.slice(0, 5).forEach(commit => { // Display last 5 commits
+                    const li = document.createElement("li");
+                    li.innerHTML = `<strong>${commit.commit.author.name}</strong>: ${commit.commit.message} <br>
+                                    <a href="${commit.html_url}" target="_blank">View Commit</a>`;
+                    commitList.appendChild(li);
+                });
+            } catch (error) {
+                console.error("Error fetching commits:", error);
+            }
+        }
+
+        fetchCommits();
+    </script>
+
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=butterfly-artist&show_icons=true&theme=tokyonight" alt="Madhulika's GitHub stats" />
 </p>
